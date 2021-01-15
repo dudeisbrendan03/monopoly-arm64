@@ -1,6 +1,6 @@
 [![Build Status](https://drone.ftpix.com/api/badges/lamarios/monopoly/status.svg)](https://drone.ftpix.com/lamarios/monopoly)
 
-# Monopoly
+# Monopoly (arm64)
 This is an online replica of the famous board game, it also has video and text chat.
 
 The game includes little game logic to replicate playing the board game version. Meaning that if you roll the dice, you need to move your token. If you pass through the GO, the person in charge of the bank need to sends you the money.
